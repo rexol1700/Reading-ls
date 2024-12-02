@@ -3,7 +3,7 @@ The books that I'm reading, have read and want to read. Including progression.
 
 ## 📖 Currently Reading
 
-- **Title**: [Think Like a Programmer: An Introduction to Creative Problem Solving]
+- **Title**: [Think Like a Programmer: An Introduction to Creative Problem Solving](https://m.media-amazon.com/images/I/71K9kh-Xh+L._SL1500_.jpg)
   **Author**: V. Anton Spraul 
   **Notes**: Great insights on becoming a better developer.
   **Progress**: 13% 
