@@ -4,7 +4,7 @@ The books that I'm reading, have read and want to read. Including progression:
 </br>
 </br>
 
-<div style="display: flex; align-items: flex-start; gap: 10px;">
+<div style="display: block; align-items: flex-start; gap: 20px;">
 
 <img src="https://m.media-amazon.com/images/I/71K9kh-Xh+L._SL1500_.jpg" alt="Book cover" width="150">
 
